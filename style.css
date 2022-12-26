@@ -1,0 +1,221 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f1f1f1;
+}
+
+.bir {
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  text-align: center;
+  background-image: url(./bg.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 800px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.7;
+  letter-spacing: 5px;
+}
+
+.bir h1 {
+  width: 462px;
+  background-color: #201f1f;
+  color: white;
+  font-size: 3rem;
+  text-transform: uppercase;
+  padding: 29px 32px;
+  outline: 10px inset #a253a2;
+  outline-offset: 20px;
+  border-radius: 10px 0px 10px;
+}
+
+.iki {
+  text-align: center;
+  height: 362px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  line-height: 31.68px;
+  padding: 0px 100px;
+  opacity: 0.7;
+  font-size: 19px;
+  font-family: "Lato", sans-serif;
+}
+
+.iki h2 {
+  margin-bottom: 20px;
+}
+
+.üç {
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  text-align: center;
+  background-image: url(./bg2.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 576px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.9;
+}
+
+.üç img {
+  width: 37.98rem;
+  height: 7.905rem;
+  opacity: 0.7;
+}
+
+.dört {
+  text-align: center;
+  height: 362px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  line-height: 31.68px;
+  padding: 0px 100px;
+  opacity: 0.7;
+  font-size: 19px;
+  background-color: #000000;
+  color: white;
+  font-family: "Lato", sans-serif;
+}
+.dört h2 {
+  margin-bottom: 20px;
+}
+
+.beş {
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  text-align: center;
+  background-image: url(./bg3.jpg);
+  background-position: center;
+  background-attachment: fixed;
+  height: 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.7;
+}
+
+.beş h1 {
+  font-size: 3rem;
+  width: 800px;
+  letter-spacing: 5px;
+  font-weight: 700;
+  background-color: #070606;
+  color: white;
+  padding: 29px 32px;
+  outline: 10px inset #a253a2;
+  outline-offset: 20px;
+  border-radius: 10px 0px 10px;
+}
+
+.altı {
+  text-align: center;
+  height: 362px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  line-height: 31.68px;
+  padding: 0px 100px;
+  opacity: 0.7;
+  font-size: 19px;
+  font-family: "Lato", sans-serif;
+}
+.altı h2 {
+  margin-bottom: 20px;
+}
+
+.yedi {
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  text-align: center;
+  background-image: url(./bg4.jpg);
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.7;
+}
+.yedi h1 {
+  font-size: 3rem;
+  width: 600px;
+  letter-spacing: 5px;
+  font-weight: 700;
+  background-color: #070606;
+  color: white;
+  padding: 29px 32px;
+  outline: 10px inset #a253a2;
+  outline-offset: 20px;
+  border-radius: 10px 0px 10px;
+}
+
+.sekiz {
+  text-align: center;
+  height: 362px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  line-height: 31.69px;
+  padding: 0px 100px;
+  opacity: 0.7;
+  font-size: 19px;
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+  background-color: #201f1f;
+  color: white;
+  letter-spacing: 0.3px;
+}
+.sekiz h2 {
+  margin-bottom: 20px;
+}
+
+.dokuz {
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  text-align: center;
+  background-image: url(./bg.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 800px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.7;
+  letter-spacing: 5px;
+}
+.dokuz h1 {
+  font-size: 3rem;
+  width: 750px;
+  letter-spacing: 5px;
+  font-weight: 700;
+  background-color: #201f1f;
+  color: white;
+  padding: 29px 32px;
+  outline: 10px inset #a253a2;
+  outline-offset: 20px;
+  border-radius: 10px 0px 10px;
+  /* margin-bottom:20px ; */
+}
